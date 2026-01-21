@@ -1,5 +1,5 @@
 // ★ あなたのGAS /exec URL
-const API_URL = "https://script.google.com/macros/s/AKfycbz-i0zHmNHVGpUzr8AI4ME3EqxKpBLeA3pg-OAiO6x0-8iBg-Yx0gdBunBhTclyYbQU/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbz15qt-FulljKr0Z4Zx0n4F7sBqlPXx6yPku5aWod-N7xXAVrCUcrkHZBBOAsJl6kYD/exec";
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("postForm");

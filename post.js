@@ -1,5 +1,5 @@
 // ★ あなたのGAS /exec URL
-const API_URL = "https://script.google.com/macros/s/AKfycbwkvO4aggtMzMDWOZQP7VBGTAnt3tcKgVj_MRSq5xjMB1DJmo81eI6RxqnAwIRT9xR5/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbz-i0zHmNHVGpUzr8AI4ME3EqxKpBLeA3pg-OAiO6x0-8iBg-Yx0gdBunBhTclyYbQU/exec";
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("postForm");
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
       })
       .catch(err => {
         console.error(err);
-        alert("投稿失敗2：" + err.message);
+        alert("投稿失敗3：" + err.message);
       });
   });
 });

@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
       })
       .catch(err => {
         console.error(err);
-        alert("投稿失敗3：" + err.message);
+        alert("投稿失敗4：" + err.message);
       });
   });
 });
